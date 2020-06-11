@@ -102,3 +102,7 @@ ENV/
 
 #VSCode workspace
 *.code-workspace
+
+#Keys
+pubkey
+pubkey.pub
