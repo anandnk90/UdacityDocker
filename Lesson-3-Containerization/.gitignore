@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 #VSCode workspace
-.code-workspace
+*.code-workspace
